@@ -26,29 +26,29 @@ services:
         icon: fas fa-people-carry
 
 portfolio:
-    title: "Resources"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Interviews"
+    text: "Interviews with outstanding women in the field."
     section: portfolio
     
 
 timeline:
-    title: "Interview Series" 
-    text: "Interviews with outstanding women in the field."
+    title: "Resources" 
+    text: "A collection of our favorite resources."
     section: timeline
     events:
-      #- title: "Leslie Kaebling"
+      - title: "Courses"
       #  year: "xxx"
-      #  desc: "xxx"
+        desc: "**Markdown** is supported?"
       #  image: assets/img/timeline/1.jpg
       #  alt: 
       #  align: left
-      #- title: "An Agency is Born"
+      - title: "Math for Machine Learning"
       #  year: "March 2011"
       #  desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
       #  image: assets/img/timeline/2.jpg
       #  alt: 
       #  align: right
-      #- title: "Jekyll Theme is created"
+      - title: "Other Resources"
       #  year: "2019"
       #  desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
       #  image: assets/img/timeline/3.jpg
@@ -70,7 +70,7 @@ about:
 clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
