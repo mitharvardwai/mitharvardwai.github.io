@@ -1,11 +1,11 @@
 nav:
-  - title: "Services"
+  - title: "About Us"
     section: services
 
-  - title: "Portfolio"
+  - title: "Resources"
     section: portfolio
     
-  - title: "About"
+  - title: "Interview Series"
     section: timeline
 
   - title: "Team"
