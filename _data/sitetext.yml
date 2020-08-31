@@ -122,9 +122,8 @@ footer:
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"  
+      - url: https://github.com/mitharvardwai
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
