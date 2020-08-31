@@ -12,4 +12,4 @@ nav:
     section: team
 
   - title: "Contact"
-    url: mailto:wai_exec@mit.edu
+    section: contact
