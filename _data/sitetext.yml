@@ -46,7 +46,8 @@ timeline:
         Introductory Artificial Intelligence at MIT: [MIT Open Course Ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) and [Youtube](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi).<br>
 
         Deep Learning One Month Course: [Youtube](https://www.youtube.com/watch?v=njKP3FqW3Sk)."
-      #  image: assets/img/timeline/1.jpg
+        
+        image: fab fa-books
       #  alt: 
         align: left
       - title: "Math for Machine Learning"
@@ -61,7 +62,8 @@ timeline:
         Learn basic probability with [Mr. Nystrom](https://www.youtube.com/watch?v=dqgZxu9qc2w&list=PLFGZup_HuWTtIs0Xbzt7vDoFrnZxN4VXT).<br>
 
         Learn advanced probability with [Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)."
-      #  image: assets/img/timeline/2.jpg
+        
+        image: fab fa-function
       #  alt: 
         align: right
       - title: "Other Resources"
@@ -73,7 +75,7 @@ timeline:
   
         Read machine learning-related articles on [Distill](https://distill.pub)."
 
-      #  image: assets/img/timeline/3.jpg
+        image: fab fa-edit
       #  alt: image alt text
         #align: #default is left       
       #- title: "Title"
