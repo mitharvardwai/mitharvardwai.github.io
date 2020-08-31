@@ -109,13 +109,6 @@ team:
         image: assets/img/team/koala_icon.png
       - name: "Kat Wicks"
         image: assets/img/team/koala_icon.png
-
-
-
-contact:
-    title: "Contact Us"
-    text: "For any questions, comments, concerns or to join our group, email wai_exec@mit.edu"
-    section: contact
     
 footer:
     legal: "Privacy Policy"
