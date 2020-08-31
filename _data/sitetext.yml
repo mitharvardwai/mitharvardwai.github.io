@@ -80,6 +80,11 @@ timeline:
         #align: #default is left       
     end: "Tell us your favorite resources!"
     
+contact:
+    title: "Contact Us"
+    text: "For any questions, comments, concerns or to join our group, email wai_exec@mit.edu"
+    section: team
+
 team:
     title: "Members"
     text: "Meet our leadership and other amazing members!"
@@ -109,7 +114,7 @@ team:
         image: assets/img/team/koala_icon.png
       - name: "Kat Wicks"
         image: assets/img/team/koala_icon.png
-
+    
 footer:
     legal: "Privacy Policy"
     social:
