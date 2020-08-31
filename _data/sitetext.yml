@@ -78,7 +78,7 @@ timeline:
         image: "/assets/img/resources/book.jpg"
       #  alt: image alt text
         #align: #default is left       
-    end: "Tell us your favorites!"
+    end: "Tell us your favorite resources!"
     
 team:
     title: "Members"
