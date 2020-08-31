@@ -8,8 +8,11 @@ nav:
   - title: "Resources"
     section: timeline
 
-  - title: "Team"
-    section: team
+  - title: "Leadership"
+    section: leadership
+
+  - title: "Members"
+    section: members
 
   - title: "Contact"
     section: contact

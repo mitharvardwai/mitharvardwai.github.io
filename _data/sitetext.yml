@@ -102,7 +102,7 @@ team:
     title: "Leadership"
     text: "Meet our leadership!"
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    section: leadership
     people:
       - name: "Katie Collins"
         role: "Co-President and Founder, she/her/hers"
@@ -117,7 +117,7 @@ team:
     title: "Members"
     text: "Meet our other amazing members!"
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    section: members
     people:
       - name: "Fatima Gunter-Rahman"
         role: "she/her/hers"
