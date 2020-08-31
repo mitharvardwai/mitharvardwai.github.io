@@ -114,8 +114,8 @@ team:
 
 contact:
     title: "Contact Us"
-    text: "For any questions, comments, concerns or to join our group, email wai_exec "at" mit "dot" edu"
-    #section: contact
+    text: "For any questions, comments, concerns or to join our group, email wai_exec@mit.edu"
+    section: contact
     
 footer:
     legal: "Privacy Policy"
