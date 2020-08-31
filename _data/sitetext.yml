@@ -1,7 +1,7 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: MITxHarvard Women in Artificial Intelligence
+    text: Welcome to our group!
+    button: Learn More About Us
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
