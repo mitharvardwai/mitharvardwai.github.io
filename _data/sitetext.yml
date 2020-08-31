@@ -110,11 +110,11 @@ clients:
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
     
-members:
+team:
     title: "Leadership"
     text: "Meet our leadership!"
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: members
+    section: team
     people:
       - name: "Katie Collins"
         role: "Co-President and Founder, she/her/hers"
@@ -125,12 +125,6 @@ members:
       - name: "Jacqueline Valeri"
         role: "Co-President and Chief Technology Officer, she/her/hers"
         image: assets/img/team/3.jpg
-
-    title: "Members"
-    text: "Meet our other amazing members!"
-    #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
       - name: "Fatima Gunter-Rahman"
         role: "she/her/hers"
         image: assets/img/team/1.jpg
