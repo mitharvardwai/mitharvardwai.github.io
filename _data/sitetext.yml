@@ -82,20 +82,36 @@ timeline:
     
 team:
     title: "Members"
-    text: "Meet our leadership!"
+    text: "Meet our leadership and other amazing members!"
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Katie Collins"
         role: "Co-President and Founder, she/her/hers"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/katie_c.png
       - name: "Megan Wei"
         role: "Co-President and Treasurer, she/her/hers"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/megan_w.png
       - name: "Jacqueline Valeri"
         role: "Co-President and Chief Technology Officer, she/her/hers"
-        image: assets/img/team/3.jpg
-          
+        image: assets/img/team/jackie_v.png
+      - name: "Fatima Gunter-Rahman"
+        role: "she/her/hers"
+        image: assets/img/team/fatima_g.jpg
+      - name: "Lindsey McAllister"
+        image: assets/img/team/koala_icon.png
+      - name: "Kate Pearce"
+        image: assets/img/team/kate_p.jpg
+      - name: "Summer Vo"
+        role: "she/her/hers"
+        image: assets/img/team/koala_icon.png
+      - name: "Diana Faust"
+        image: assets/img/team/koala_icon.png
+      - name: "Kat Wicks"
+        image: assets/img/team/koala_icon.png
+
+
+
 contact:
     title: "Contact Us"
     text: "For any questions, comments, concerns or to join our group!"
