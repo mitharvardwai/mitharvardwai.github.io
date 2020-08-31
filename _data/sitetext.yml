@@ -36,8 +36,8 @@ timeline:
     text: "A collection of our favorite resources."
     section: timeline
     events:
-      - #title: "Courses"
-        year: "Courses"
+      - title: "Courses"
+       # year: "Courses"
         desc: "
         Andrew Ng Deep Learning Videos: [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN).<br>
 
@@ -47,11 +47,11 @@ timeline:
 
         Deep Learning One Month Course: [Youtube](https://www.youtube.com/watch?v=njKP3FqW3Sk)."
         
-        image: fab fa-books
+        icon: fab fa-books
       #  alt: 
         align: left
-      - #title: "Math for Machine Learning"
-        year: "Math"
+      - title: "Math for Machine Learning"
+        #year: "Math"
         desc: "
         Technical videos from Mathematical Monk about ML: [Youtube](https://www.youtube.com/watch?v=yDLKJtOVx5c).<br>
         
@@ -63,11 +63,11 @@ timeline:
 
         Learn advanced probability with [Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)."
         
-        image: fab fa-function
+        icon: fab fa-function
       #  alt: 
         align: right
-      - #: "Other Resources"
-        year: "Other"
+      - title: "Other Resources"
+       #year: "Other"
         desc: "
         Deep Learning by Goodfellow et al: free book available at [deeplearningbook.org](https://www.deeplearningbook.org).<br>
         
@@ -75,15 +75,10 @@ timeline:
   
         Read ML-related articles on [Distill](https://distill.pub)."
 
-        image: fab fa-edit
+        icon: fab fa-edit
       #  alt: image alt text
         #align: #default is left       
-    #end: "Want "
-
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
+    end: "Tell us your favorites!"
 
 clients:
     section: clients
