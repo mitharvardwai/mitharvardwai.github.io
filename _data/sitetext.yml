@@ -41,9 +41,9 @@ timeline:
         desc: "
         Andrew Ng Deep Learning Videos: [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN).<br>
 
-        Introductory Machine Learning at MIT: [MIT Open Course Ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/).<br>
+        Introductory ML at MIT: [MIT Open Course Ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/).<br>
 
-        Introductory Artificial Intelligence at MIT: [MIT Open Course Ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) and [Youtube](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi).<br>
+        Introductory AI at MIT: [MIT Open Course Ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) and [Youtube](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi).<br>
 
         Deep Learning One Month Course: [Youtube](https://www.youtube.com/watch?v=njKP3FqW3Sk)."
         
@@ -53,11 +53,11 @@ timeline:
       - title: "Math for Machine Learning"
       #  year: "March 2011"
         desc: "
-        Technical videos from Mathematical Monk about machine learning: [Youtube](https://www.youtube.com/watch?v=yDLKJtOVx5c).<br><br>
+        Technical videos from Mathematical Monk about ML: [Youtube](https://www.youtube.com/watch?v=yDLKJtOVx5c).<br>
         
-        Learn linear algebra and vectors with [3blue1brown on Youtube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).<br>
+        Learn linear algebra with [3blue1brown on Youtube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).<br>
         
-        Learn matrix methods in data analysis, signal processing, and machine learning with [MIT's Gil Strang](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k).<br>
+        Learn matrix methods with [MIT's Gil Strang](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k).<br>
  
         Learn basic probability with [Mr. Nystrom](https://www.youtube.com/watch?v=dqgZxu9qc2w&list=PLFGZup_HuWTtIs0Xbzt7vDoFrnZxN4VXT).<br>
 
