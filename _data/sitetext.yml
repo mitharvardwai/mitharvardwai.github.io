@@ -38,7 +38,14 @@ timeline:
     events:
       - title: "Courses"
       #  year: "xxx"
-        desc: "**Markdown** is supported?"
+        desc: "**Markdown** is supported?
+        Andrew Ng Deep Learning Videos: all available on [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN).<br><br>
+
+        Introductory Machine Learning at MIT: online course available at MIT Open Course Ware.
+
+        Introductory Artificial Intelligence at MIT: online course available at MIT Open Course Ware and Youtube.
+
+        Deep Learning One Month Course: available on Youtube."
       #  image: assets/img/timeline/1.jpg
       #  alt: 
       #  align: left
