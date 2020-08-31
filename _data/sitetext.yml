@@ -8,10 +8,10 @@ services:
     title: "About Us"
     text: >
       We are a club of MIT and Harvard students who are interested in artificial intelligence and machine learning. Beginners and interested individuals with any level of knowledge are welcome!
-    
-      We use an inclusive definition of the word women, and the purpose of the Women in Artificial Intelligence group is to provide a supportive community for cisgender women, transgender women, genderqueer women and individuals, and non-binary individuals pursuing studies or research in AI and machine learning at MIT and Harvard. The field of artificial intelligence and more broadly, the field of computer science, are currently male-dominated, with no exception for departments at MIT and Harvard. Additionally, we understand that AI has historically not been a very welcoming environment for underrepresented groups, especially individuals intersecting multiple identities. We strive to provide a structured support group for women to discuss their research, ideas, or experiences in the field.
+      
+      We use an inclusive definition of the word women, and the purpose of the Women in Artificial Intelligence group is to provide a supportive community for cisgender women, transgender women, genderqueer women and individuals, and non-binary individuals pursuing studies or research in AI and machine learning at MIT and Harvard.
 
-      We are structured formally as a reading group, meeting every other week to discuss papers of interest related to artificial intelligence and machine learning, either on the theoretical or applied side depending on group members’ interests. Additionally, we endeavor to serve as an organizing body to get more women involved in AI and ML, working with MIT and Harvard faculty to host more female speakers for machine intelligence-related seminars. We have started by hosting an interview series with current female MIT and Harvard faculty and notable women-identified researchers from other institutions and industry. Our goal is to assuage the current disproportionally male proportion of talks and seminars in the fields of machine learning, deep learning, and artificial intelligence at MIT and Harvard."
+      We are structured formally as a reading group, meeting every other week to discuss papers of interest related to artificial intelligence and machine learning. Additionally, we endeavor to serve as an organizing body to get more women involved in AI and ML, working with MIT and Harvard faculty to host more female speakers for machine intelligence-related seminars.
     
     section: services
     list:
@@ -23,7 +23,7 @@ services:
         icon: fas fa-laptop       
       - title: "Support"
         desc: "Create an environment safe from judgment, hostility, and competition."
-        icon: fab fa-people-carry
+        icon: fas fa-people-carry
 
 portfolio:
     title: "Portfolio"
