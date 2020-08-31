@@ -39,39 +39,39 @@ timeline:
       - title: "Courses"
       #  year: "xxx"
         desc: "
-        Andrew Ng Deep Learning Videos: all available on [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN).<br><br>
+        Andrew Ng Deep Learning Videos: [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN).<br>
 
-        Introductory Machine Learning at MIT: online course available at [MIT Open Course Ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/).<br><br>
+        Introductory Machine Learning at MIT: [MIT Open Course Ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/).<br>
 
-        Introductory Artificial Intelligence at MIT: online course available at [MIT Open Course Ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) and [Youtube](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi).<br><br>
+        Introductory Artificial Intelligence at MIT: [MIT Open Course Ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) and [Youtube](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi).<br>
 
-        Deep Learning One Month Course: available on [Youtube](https://www.youtube.com/watch?v=njKP3FqW3Sk)."
+        Deep Learning One Month Course: [Youtube](https://www.youtube.com/watch?v=njKP3FqW3Sk)."
       #  image: assets/img/timeline/1.jpg
       #  alt: 
         align: left
       - title: "Math for Machine Learning"
       #  year: "March 2011"
         desc: "
-        Technical videos from Mathematical Monk about machine learning: videos available on [Youtube](https://www.youtube.com/watch?v=yDLKJtOVx5c).<br><br>
+        Technical videos from Mathematical Monk about machine learning: [Youtube](https://www.youtube.com/watch?v=yDLKJtOVx5c).<br><br>
         
-        Learn linear algebra and vectors with [3blue1brown on Youtube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).<br><br>
+        Learn linear algebra and vectors with [3blue1brown on Youtube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).<br>
         
-        Learn matrix methods in data analysis, signal processing, and machine learning with [MIT's Gil Strang](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k).<br><br>
+        Learn matrix methods in data analysis, signal processing, and machine learning with [MIT's Gil Strang](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k).<br>
  
-        Learn basic probability with [Mr. Nystrom](https://www.youtube.com/watch?v=dqgZxu9qc2w&list=PLFGZup_HuWTtIs0Xbzt7vDoFrnZxN4VXT).<br><br>
+        Learn basic probability with [Mr. Nystrom](https://www.youtube.com/watch?v=dqgZxu9qc2w&list=PLFGZup_HuWTtIs0Xbzt7vDoFrnZxN4VXT).<br>
 
-        Learn advanced probability with [Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4).<br><br<"
+        Learn advanced probability with [Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)."
       #  image: assets/img/timeline/2.jpg
       #  alt: 
         align: right
       - title: "Other Resources"
       #  year: "2019"
         desc: "
-        Deep Learning by Goodfellow et al: free book available at [deeplearningbook.org](https://www.deeplearningbook.org).<br><br>
+        Deep Learning by Goodfellow et al: free book available at [deeplearningbook.org](https://www.deeplearningbook.org).<br>
         
-        Practice data science problems on [Kaggle](https://www.kaggle.com).<br><br>
+        Practice data science problems on [Kaggle](https://www.kaggle.com).<br>
   
-        Read machine learning-related articles on [Distill](https://distill.pub).<br><br>"
+        Read machine learning-related articles on [Distill](https://distill.pub)."
 
       #  image: assets/img/timeline/3.jpg
       #  alt: image alt text
