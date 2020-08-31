@@ -47,7 +47,7 @@ timeline:
 
         Deep Learning One Month Course: [Youtube](https://www.youtube.com/watch?v=njKP3FqW3Sk)."
         
-        image: fas fa-books
+        icon: fas fa-books
       #  alt: 
         align: left
       - title: "Math for Machine Learning"
@@ -63,7 +63,7 @@ timeline:
 
         Learn advanced probability with [Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)."
         
-        image: fas fa-function
+        icon: fas fa-function
       #  alt: 
         align: right
       - title: "Other Resources"
@@ -75,7 +75,7 @@ timeline:
   
         Read ML-related articles on [Distill](https://distill.pub)."
 
-        image: fas fa-edit
+        icon: fas fa-edit
       #  alt: image alt text
         #align: #default is left       
     end: "Tell us your favorites!"
