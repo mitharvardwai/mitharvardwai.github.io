@@ -36,8 +36,8 @@ timeline:
     text: "A collection of our favorite resources."
     section: timeline
     events:
-      - title: "Courses"
-      #  year: "xxx"
+      - #title: "Courses"
+        year: "Courses"
         desc: "
         Andrew Ng Deep Learning Videos: [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN).<br>
 
@@ -50,8 +50,8 @@ timeline:
         image: fab fa-books
       #  alt: 
         align: left
-      - title: "Math for Machine Learning"
-      #  year: "March 2011"
+      - #title: "Math for Machine Learning"
+        year: "Math"
         desc: "
         Technical videos from Mathematical Monk about ML: [Youtube](https://www.youtube.com/watch?v=yDLKJtOVx5c).<br>
         
@@ -66,24 +66,18 @@ timeline:
         image: fab fa-function
       #  alt: 
         align: right
-      - title: "Other Resources"
-      #  year: "2019"
+      - #: "Other Resources"
+        year: "Other"
         desc: "
         Deep Learning by Goodfellow et al: free book available at [deeplearningbook.org](https://www.deeplearningbook.org).<br>
         
         Practice data science problems on [Kaggle](https://www.kaggle.com).<br>
   
-        Read machine learning-related articles on [Distill](https://distill.pub)."
+        Read ML-related articles on [Distill](https://distill.pub)."
 
         image: fab fa-edit
       #  alt: image alt text
         #align: #default is left       
-      #- title: "Title"
-      #  year: "2009-2011"
-      #  desc: "Your description here, **Markdown** is fully supported."
-      #  image: assets/img/timeline/4.jpg
-      #  alt: 
-      #  align: right
     #end: "Want "
 
 about:
