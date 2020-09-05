@@ -1,6 +1,6 @@
 header:
     title: MITxHarvard Women in Artificial Intelligence
-    text: Welcome to our group!
+    text: Welcome!
     button: Learn More About Us
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
