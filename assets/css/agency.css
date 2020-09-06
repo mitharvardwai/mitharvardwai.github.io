@@ -1,0 +1,1 @@
+$primary: {{ site.data.style.highlight | default: "#f50c00" }} !default;
