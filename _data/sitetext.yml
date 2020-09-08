@@ -95,6 +95,9 @@ team:
       - name: "Jacqueline Valeri"
         role: "Co-President and Chief Technology Officer, she/her/hers"
         image: assets/img/team/jackie_v.png
+      - name: "Gaby Ecanow"
+        role: "she/her/hers"
+        image: assets/img/team/gaby_e.jpg
       - name: "Fatima Gunter-Rahman"
         role: "she/her/hers"
         image: assets/img/team/fatima_g.jpg
@@ -105,9 +108,6 @@ team:
       - name: "Summer Vo"
         role: "she/her/hers"
         image: assets/img/team/koala_icon.png
-      - name: "Gaby Ecanow"
-        role: "she/her/hers"
-        image: assets/img/team/gaby_e.jpg
       - name: "Diana Faust"
         image: assets/img/team/koala_icon.png
       - name: "Kat Wicks"
