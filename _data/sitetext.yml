@@ -105,6 +105,9 @@ team:
       - name: "Summer Vo"
         role: "she/her/hers"
         image: assets/img/team/koala_icon.png
+      - name: "Gaby Ecanow"
+        role: "she/her/hers"
+        image: assets/img/team/gaby_e.jpg
       - name: "Diana Faust"
         image: assets/img/team/koala_icon.png
       - name: "Kat Wicks"
