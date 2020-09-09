@@ -18,12 +18,12 @@ services:
       - title: "Accessibility"
         desc: "Make machine learning and artificial intelligence more accessible, especially for those who are underrepresented in the field."
         icon: fas fa-door-open #find more at https://fontawesome.com/icons
-      - title: "Education"
-        desc: "Learn more about ML and AI ourselves as well as educate others, especially beginners, by providing helpful resources and role models in the field."
-        icon: fas fa-laptop       
       - title: "Support"
         desc: "Create an environment safe from judgment, hostility, and competition."
         icon: fas fa-people-carry
+      - title: "Education"
+        desc: "Learn more about ML and AI ourselves as well as educate others, especially beginners, by providing helpful resources and role models in the field."
+        icon: fas fa-laptop       
 
 portfolio:
     title: "Interviews"
@@ -92,7 +92,7 @@ team:
         image: assets/img/team/gaby_e.jpg
       - name: "Michelle Li"
         role: "she/her/hers"
-        image: assets/img/team/koala_icon.png
+        image: assets/img/team/michelle_l.jpeg
       - name: "Fatima Gunter-Rahman"
         role: "she/her/hers"
         image: assets/img/team/fatima_g.jpg
