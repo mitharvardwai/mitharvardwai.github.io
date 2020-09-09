@@ -1,7 +1,6 @@
 ---
 title: Professor Melanie Mitchell
-subtitle:
-MITxHarvard Women in Artificial Intelligence Interview Series with Professor Melanie Mitchell, interviewed by Katie Collins, MIT '21
+subtitle: MITxHarvard Women in Artificial Intelligence Interview Series with Professor Melanie Mitchell, interviewed by Katie Collins, MIT '21
 
 image: ...
 alt: ...
