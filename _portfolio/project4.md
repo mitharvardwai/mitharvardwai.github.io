@@ -1,16 +1,16 @@
 ---
-title: Dr. Una-May O'Reilly
-subtitle: MITxHarvard Women in Artificial Intelligence Interview Series with Dr. Una-May O'Reilly, interviewed by Jackie Valeri, MIT Ph.D. Candidate.
+title: Professor Marinka Zitnik
+subtitle: MITxHarvard Women in Artificial Intelligence Interview Series with Professor Marinka Zitnik, interviewed by Jackie Valeri, MIT Ph.D. Candidate.
 
-image: assets/img/portfolio/una_may_oreilly_video.jpg
-alt: Una-May O'Reilly
+image: assets/img/portfolio/marinka_zitnik_video.jpg
+alt: Marinka Zitnik
 
 caption:
-  title: Dr. Una-May O'Reilly
-  thumbnail: assets/img/portfolio/una_may_oreilly_video.jpg
+  title: Professor Marinka Zitnik
+  thumbnail: assets/img/portfolio/marinka_zitnik_video.jpg
 ---
 
-View on [Youtube](https://www.youtube.com/watch?v=AnrdIzLN0R8).
+View on [Youtube](https://www.youtube.com/watch?v=myv4E5gBnmQ).
 
-Dr. Una-May O’Reilly is leader of the AnyScale Learning For All (ALFA) group at CSAIL. ALFA focuses on scalable machine learning, evolutionary algorithms, and frameworks for large scale knowledge mining, prediction and analytics. The group has projects in cybersecurity, healthcare, and online education. Dr. O’Reilly was awarded the EvoStar Award for Outstanding Contribution of Evolutionary Computation in Europe in April, 2013. She is also a Fellow of the International Society of Genetic and Evolutionary Computation, now ACM SIGEVO, which she co-founded in 2004 and she now serves on its Executive Board. In 2013 she inaugurated the Women in Evolutionary Computation group at GECCO, largest international Evolutionary Computation Conference, and served as chair in 2005. She has served on the GECCO business committee, co-led the 2006 and 2009 Genetic Programming: Theory to Practice Workshops and co-chaired EuroGP, the largest conference devoted to Genetic Programming. Dr. O’Reilly serves as the area editor for Data Analytics and Knowledge Discovery for Genetic Programming and Evolvable Machines (Kluwer), and ACM Transactions on Evolutionary Learning and Optimization, as editor for Evolutionary Computation (MIT Press), and as action editor for the Journal of Machine Learning Research. She also has a patent for an original genetic algorithm technique applicable to internet-based name suggestions. Dr. O’Reilly holds a B.Sc. from the University of Calgary, a M.C.S. and Ph.D. (1995) from Carleton University, Ottawa, Canada, and joined the Artificial Intelligence Laboratory, MIT as a Postdoctoral Associate in 1996.
+Marinka Zitnik is an Assistant Professor at Harvard University with appointments in the Department of Biomedical Informatics, Blavatnik Institute, Broad Institute of MIT and Harvard, and Harvard Data Science Initiative. Dr. Zitnik is a computer scientist studying applied machine learning, focusing on challenges brought forward by data in science, medicine, and health. Dr. Zitnik's research vision is that in the future artificial intelligence will be routinely used to give clinicians diagnostic recommendations; give scientists testable hypotheses they can confirm experimentally and offer them insights into safe and precise treatments; and give patients guidance on self-care, e.g., how to lead a healthy lifestyle and recognize the disease early. To realize this vision, her lab at Harvard develops methods for learning over complex data and translates machine learning research into innovative applications. Before joining Harvard, Dr. Zitnik was a postdoctoral fellow in Computer Science at Stanford University and was involved in projects at Chan Zuckerberg Biohub. Dr. Zitnik has recently been named a Rising Star in EECS by MIT and also a Next Generation in Biomedicine by the Broad Institute, being the only young scientist who received such recognition in both EECS and Biomedicine.
 

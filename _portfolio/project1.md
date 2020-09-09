@@ -1,16 +1,16 @@
 ---
-title: Professor Melanie Mitchell
-subtitle: MITxHarvard Women in Artificial Intelligence Interview Series with Professor Melanie Mitchell, interviewed by Katie Collins, MIT '21. 
+title: Professor Anima Anandkumar
+subtitle: MITxHarvard Women in Artificial Intelligence Interview Series with Professor Anima Anandkumar, interviewed by Katie Collins, MIT '21.
 
-image: assets/img/portfolio/melanie_mitchell_video.jpg
-alt: Melanie Mitchell
+image: assets/img/portfolio/anima_anandkumar_video.jpg
+alt: Anima Anandkumar
 
 caption:
-  title: Professor Melanie Mitchell
-  thumbnail: assets/img/portfolio/melanie_mitchell_video.jpg
+  title: Professor Anima Anandkumar
+  thumbnail: assets/img/portfolio/anima_anandkumar_video.jpg
 ---
 
-View on [Youtube](https://www.youtube.com/watch?v=lJh5XpBYrNY).
+View on [Youtube](https://www.youtube.com/watch?v=qxwDR4q-rz0).
 
-Professor Melanie Mitchell is the Davis Professor of Complexity at the Santa Fe Institute, and Professor of Computer Science (currently on leave) at Portland State University. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. Prof. Mitchell is the author or editor of six books and numerous scholarly papers in the fields of artificial intelligence, cognitive science, and complex systems. Her book Complexity: A Guided Tour (Oxford University Press) won the 2010 Phi Beta Kappa Science Book Award and was named by Amazon.com as one of the ten best science books of 2009. Her latest book is Artificial Intelligence: A Guide for Thinking Humans. Prof. Mitchell originated the Santa Fe Institute's Complexity Explorer platform, which offers online courses and other educational resources related to the field of complex systems. Her online course “Introduction to Complexity” has been taken by over 25,000 students, and is one of Course Central’s “top fifty online courses of all time”. Prof. Mitchell received a Ph.D. in Computer Science from the University of Michigan working with Prof. Douglas Hofstater.
+Professor Anima Anandkumar holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At NVIDIA, she leads the research group that develops next-generation AI algorithms. At Caltech, she is the co-director of Dolcit and co-leads the AI4science initiative, along with Yisong Yue. She has spearheaded the development of tensor algorithms, first proposed in her seminal paper. They are central to effectively processing multidimensional and multimodal data, and for achieving massive parallelism in large-scale AI applications. Prof. Anandkumar is the youngest named chair professor at Caltech, the highest honor the university bestows on individual faculty. She is recipient of several awards such as the Alfred. P. Sloan Fellowship, NSF Career Award, Faculty fellowships from Microsoft, Google and Adobe, and Young Investigator Awards from the Army research office and Air Force office of sponsored research. She has been featured in documentaries and articles by PBS, Wired magazine, MIT Technology Review, YourStory, and Forbes. Prof. Anandkumar received her B.Tech in Electrical Engineering from IIT Madras in 2004 and her PhD from Cornell University in 2009. She was a post-doctoral researcher at MIT from 2009 to 2010, visiting researcher at Microsoft Research New England in 2012 and 2014, assistant professor at U.C. Irvine between 2010 and 2016, associate professor at U.C. Irvine between 2016 and 2017, and principal scientist at Amazon Web Services between 2016 and 2018. 
 

@@ -1,16 +1,16 @@
 ---
-title: Dr. Danielle Belgrave
-subtitle: MITxHarvard Women in Artificial Intelligence Interview Series with Dr. Danielle Belgrave, interviewed by Katie Collins, MIT '21
+title: Professor Melanie Mitchell
+subtitle: MITxHarvard Women in Artificial Intelligence Interview Series with Professor Melanie Mitchell, interviewed by Katie Collins, MIT '21. 
 
-image: assets/img/portfolio/danielle_belgrave_video.jpg
-alt: Dr. Danielle Belgrave
+image: assets/img/portfolio/melanie_mitchell_video.jpg
+alt: Melanie Mitchell
 
 caption:
-  title: Dr. Danielle Belgrave
-  thumbnail: assets/img/portfolio/danielle_belgrave_video.jpg
+  title: Professor Melanie Mitchell
+  thumbnail: assets/img/portfolio/melanie_mitchell_video.jpg
 ---
 
-View on [Youtube](https://www.youtube.com/watch?v=OWv6zcekBkU).
+View on [Youtube](https://www.youtube.com/watch?v=lJh5XpBYrNY).
 
-Dr. Danielle Belgrave is a machine learning researcher in the Healthcare Intelligence group at Microsoft Research, in Cambridge (UK) where she works on Project Talia. Her research focuses on integrating medical domain knowledge, probabilistic graphical modeling, and causal modeling frameworks to help develop personalized treatment and intervention strategies for mental health. Mental health presents one of the most challenging and under-investigated domains of machine learning research, and in Project Talia, she and her team explores how a human-centric approach to machine learning can meaningfully assist in the detection, diagnosis, monitoring, and treatment of mental health problems. Dr. Belgrave obtained a BSc in Mathematics and Statistics from London School of Economics, an MSc in Statistics from University College London and a PhD in the area of machine learning in health applications from the University of Manchester. Prior to joining Microsoft, she was a tenured Research Fellow at Imperial College London.
+Professor Melanie Mitchell is the Davis Professor of Complexity at the Santa Fe Institute, and Professor of Computer Science (currently on leave) at Portland State University. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. Prof. Mitchell is the author or editor of six books and numerous scholarly papers in the fields of artificial intelligence, cognitive science, and complex systems. Her book Complexity: A Guided Tour (Oxford University Press) won the 2010 Phi Beta Kappa Science Book Award and was named by Amazon.com as one of the ten best science books of 2009. Her latest book is Artificial Intelligence: A Guide for Thinking Humans. Prof. Mitchell originated the Santa Fe Institute's Complexity Explorer platform, which offers online courses and other educational resources related to the field of complex systems. Her online course “Introduction to Complexity” has been taken by over 25,000 students, and is one of Course Central’s “top fifty online courses of all time”. Prof. Mitchell received a Ph.D. in Computer Science from the University of Michigan working with Prof. Douglas Hofstater.
 
