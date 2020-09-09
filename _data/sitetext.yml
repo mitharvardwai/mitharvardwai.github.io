@@ -37,7 +37,6 @@ timeline:
     section: timeline
     events:
       - title: "Courses"
-       # year: "Courses"
         desc: "
         Andrew Ng Deep Learning Videos: [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN).<br>
 
@@ -48,10 +47,8 @@ timeline:
         Deep Learning Monthlong Course: [Youtube](https://www.youtube.com/watch?v=njKP3FqW3Sk)."
         
         image: "/assets/img/resources/online_course.jpg"
-      #  alt: 
         align: left
       - title: "Math for Machine Learning"
-        #year: "Math"
         desc: "
         Technical videos from Mathematical Monk about ML: [Youtube](https://www.youtube.com/watch?v=yDLKJtOVx5c).<br>
         
@@ -64,10 +61,8 @@ timeline:
         Learn advanced probability with [Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)."
         
         image: "/assets/img/resources/math.jpg"
-      #  alt: 
         align: right
       - title: "Other Resources"
-       #year: "Other"
         desc: "
         Deep Learning by Goodfellow et al: free book available at [deeplearningbook.org](https://www.deeplearningbook.org).<br>
         
@@ -75,15 +70,12 @@ timeline:
   
         Read ML-related articles on [Distill](https://distill.pub)."
 
-        image: "/assets/img/resources/book.jpg"
-      #  alt: image alt text
-        #align: #default is left       
+        image: "/assets/img/resources/book.jpg"     
     end: "Tell us your favorite resources!"
 
 team:
     title: "Members"
     text: "Meet our leadership and other amazing members!"
-    #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Katie Collins"
