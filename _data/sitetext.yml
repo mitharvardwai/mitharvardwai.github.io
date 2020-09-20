@@ -93,20 +93,24 @@ team:
       - name: "Michelle Li"
         role: "she/her/hers"
         image: assets/img/team/michelle_l.jpeg
-      - name: "Fatima Gunter-Rahman"
-        role: "she/her/hers"
-        image: assets/img/team/fatima_g.jpg
-      - name: "Lindsey McAllister"
-        image: assets/img/team/koala_icon.png
-      - name: "Kate Pearce"
-        image: assets/img/team/kate_p.jpg
-      - name: "Summer Vo"
-        role: "she/her/hers"
-        image: assets/img/team/koala_icon.png
-      - name: "Diana Faust"
-        image: assets/img/team/koala_icon.png
-      - name: "Kat Wicks"
-        image: assets/img/team/koala_icon.png
+    text: General members include - 
+        Fatima Gunter-Rahman
+        Lindsey  McAllister
+
+      #- name: "Fatima Gunter-Rahman"
+      #  role: "she/her/hers"
+      #  image: assets/img/team/fatima_g.jpg
+      #- name: "Lindsey McAllister"
+      #  image: assets/img/team/koala_icon.png
+      #- name: "Kate Pearce"
+      #  image: assets/img/team/kate_p.jpg
+      #- name: "Summer Vo"
+      #  role: "she/her/hers"
+      #  image: assets/img/team/koala_icon.png
+      #- name: "Diana Faust"
+      # image: assets/img/team/koala_icon.png
+      #- name: "Kat Wicks"
+      #  image: assets/img/team/koala_icon.png
 
 footer:
     legal: "Privacy Policy"
