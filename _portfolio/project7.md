@@ -1,12 +1,12 @@
 ---
-title: Prof. Leslie Kaelbling
+title: Professor Leslie Kaelbling
 subtitle: MITxHarvard Women in Artificial Intelligence Interview Series with Professor Leslie Kaelbling, interviewed by Katie Collins, MIT '21.
 
 image: assets/img/portfolio/leslie_kaelbling_video.jpg
 alt: Leslie Kaelbling
 
 caption:
-  title: Prof. Leslie Kaelbling
+  title: Professor Leslie Kaelbling
   thumbnail: assets/img/portfolio/leslie_kaelbling_video.jpg
 ---
 
