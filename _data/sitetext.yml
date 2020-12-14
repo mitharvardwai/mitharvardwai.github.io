@@ -96,6 +96,58 @@ team:
       - name: "Fatima Gunter-Rahman"
         role: "she/her/hers"
         image: assets/img/team/fatima_g.jpg
+      - name: "Zana Bucinca"
+        role: "she/her/hers"
+        image: assets/img/team/zana_b.jpg
+      - name: "Jenny Cai"
+        role: "she/her/hers"
+        image: assets/img/team/jenny_c.jpeg
+      - name: "Joli Dou"
+        role: "she/her/hers"
+        image: assets/img/team/joli_d.jpg
+      - name: "Caroline Cunningham"
+        role: "she/her/hers"
+        image: assets/img/team/caroline_c.jpg
+      - name: "Alison Wang"
+        role: "she/her/hers"
+        image: assets/img/team/koala_icon.png
+      - name: "Helen Yang"
+        role: "she/her/hers"
+        image: assets/img/team/helen_y.jpg
+      - name: "Subha Nawer Pushpita" 
+        role: "she/her/hers"
+        image: assets/img/team/subha_p.jpg
+      - name: "Shinjini Ghosh"
+        image: assets/img/team/shinjini_g.jpg
+      - name: "Jennifer Hu"
+        role: "she/her/hers"
+        image: assets/img/team/jennifer_h.jpg
+      - name: "Neha Hulkund"
+        role: "she/her/hers"
+        image: assets/img/team/neha_h.jpg
+      - name: "Carina Kauf"
+        role: "she/her/hers"
+        image: assets/img/team/carina_k.jpg
+      - name: "Claire Lu"
+        role: "she/her/hers"
+        image: assets/img/team/claire_l.jpg
+      - name: "Emily Alsentzer"
+        role: "she/her/hers"
+        image: assets/img/team/emily_a.jpeg
+      - name: "Vivienne Zhang"
+        image: assets/img/team/vivienne_z.jpg
+      - name: "Jimin Lee"
+        role: "she/her/hers"
+        image: assets/img/team/jimin_l.png
+      - name: "Adrianna Wojtyna"
+        role: "she/her/hers"
+        image: assets/img/team/adrianna_w.jpg
+      - name: "Sandra Romero Pinto"
+        role: "she/her/hers"
+        image: assets/img/team/sandra_r.jpg
+      - name: "Anna G. Green"
+        role: "she/her/hers"
+        image: assets/img/team/anna_g.jpg
       - name: "Lindsey McAllister"
         image: assets/img/team/koala_icon.png
       - name: "Kate Pearce"
