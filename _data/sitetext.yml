@@ -153,7 +153,7 @@ team:
         image: assets/img/team/vicky_z.jpg
       - name: "Fiona Millan"
         role: "she/her/hers"
-        image: assets/img/team/koala_icon.jpg  
+        image: assets/img/team/koala_icon.png  
       - name: "Selena Zhang"
         role: "she/her/hers"
         image: assets/img/team/selena_z.jpg
