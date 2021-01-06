@@ -148,6 +148,15 @@ team:
       - name: "Anna G. Green"
         role: "she/her/hers"
         image: assets/img/team/anna_g.jpg
+      - name: "Vicky Zheng"
+        role: "she/her/hers"
+        image: assets/img/team/vicky_z.jpg
+      - name: "Fiona Millan"
+        role: "she/her/hers"
+        image: assets/img/team/koala_icon.jpg  
+      - name: "Selena Zhang"
+        role: "she/her/hers"
+        image: assets/img/team/selena_z.jpg
       - name: "Lindsey McAllister"
         image: assets/img/team/koala_icon.png
       - name: "Kate Pearce"
