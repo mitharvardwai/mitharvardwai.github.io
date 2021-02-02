@@ -157,6 +157,51 @@ team:
       - name: "Selena Zhang"
         role: "she/her/hers"
         image: assets/img/team/selena_z.jpg
+      - name: "Jessica Boye-Doe"
+        role: "she/her/hers"
+        image: assets/img/team/jessica_b.JPG
+      - name: "Helen Propson"
+        role: "she/her/hers"
+        image: assets/img/team/helen_p.JPG
+      - name: "Sarah Wei"
+        role: "she/her/hers"
+        image: assets/img/team/sarah_w.jpg
+      - name: "Sara Modiano"
+        role: "she/her/hers"
+        image: assets/img/team/sara_m.jpeg
+      - name: "Yongxin (Emily) Shi"
+        role: "she/her/hers"
+        image: assets/img/team/yongxin_s.jpg
+      - name: "Maegan Jong"
+        role: "she/her/hers"
+        image: assets/img/team/maegan_j.jpeg
+      - name: "Alisa Hathaway"
+        role: "she/her/hers"
+        image: assets/img/team/alisa_h.jpg
+      - name: "Anusha Puri"
+        role: "she/her/hers"
+        image: assets/img/team/anusha_p.jpg
+      - name: "Yao Yin"
+        role: "she/her/hers"
+        image: assets/img/team/yao_y.jpg
+      - name: "Kayla Huang"
+        role: "she/her/hers"
+        image: assets/img/team/kayla_h.jpg
+      - name: "Noa Korneev"
+        role: "she/her/hers"
+        image: assets/img/team/noa_k.jpg
+      - name: "Eshika Saxena"
+        role: "she/her/hers"
+        image: assets/img/team/eshika_s.jpg
+      - name: "Mari Kikuta"
+        role: "she/her/hers"
+        image: assets/img/team/koala_icon.png
+      - name: "Zad Chin"
+        role: "she/her/hers"
+        image: assets/img/team/zad_c.jpg
+      - name: "Elizabeth Bondi"
+        role: "she/her/hers"
+        image: assets/img/team/elizabeth_b.jpg
       - name: "Lindsey McAllister"
         image: assets/img/team/koala_icon.png
       - name: "Kate Pearce"
