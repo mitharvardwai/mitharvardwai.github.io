@@ -1,15 +1,15 @@
 nav:
-  - title: "About Us"
+  - title: "about Us"
     section: services
 
-  - title: "Interview Series"
+  - title: "interview Series"
     section: portfolio
     
-  - title: "Resources"
+  - title: "resources"
     section: timeline
 
-  - title: "Members"
+  - title: "members"
     section: team
 
-  - title: "Contact"
+  - title: "contact"
     url: mailto:wai_exec@mit.edu
