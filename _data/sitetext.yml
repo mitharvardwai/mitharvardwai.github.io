@@ -1,11 +1,11 @@
 header:
-    #title: WAI
+    title: WAI
     #text: Women in Artificial Intelligence
     button: Learn More About Us
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "About Us"
+    title: "about us"
     text: >
       We are a club of MIT and Harvard students who are interested in artificial intelligence and machine learning. Beginners and interested individuals with any level of knowledge are welcome!
       
@@ -26,14 +26,14 @@ services:
         icon: fas fa-laptop       
 
 portfolio:
-    title: "Interviews"
-    text: "Interviews with outstanding women in the field."
+    title: "interviews"
+    text: "interviews with outstanding women in the field."
     section: portfolio
     
 
 timeline:
-    title: "Resources" 
-    text: "A collection of our favorite resources."
+    title: "resources" 
+    text: "a collection of our favorite resources."
     section: timeline
     events:
       - title: "Courses"
@@ -74,8 +74,8 @@ timeline:
     end: "Tell us your favorite resources!"
 
 team:
-    title: "Members"
-    text: "Meet our leadership and other amazing members!"
+    title: "members"
+    text: "meet our leadership and other amazing members!"
     section: team
     people:
       - name: "Katie Collins"
