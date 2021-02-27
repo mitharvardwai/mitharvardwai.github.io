@@ -1,8 +1,8 @@
 nav:
-  - title: "about Us"
+  - title: "about us"
     section: services
 
-  - title: "interview Series"
+  - title: "interview series"
     section: portfolio
     
   - title: "resources"
