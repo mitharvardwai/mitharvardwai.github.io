@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "mitharvardwai.github.io" # the subpath of your site, e.g. /blog
 
-title      : MITxHarvard Women in AI
+title      : WAI
 email      : wai_exec@mit.edu #this is also the email contact forms will go to
 description: "MITxHarvard WAI group website."
 author     : Jacqueline Valeri
