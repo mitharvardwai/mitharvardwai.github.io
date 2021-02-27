@@ -88,11 +88,32 @@ team:
         role: "Co-President and Chief Technology Officer, she/her/hers"
         image: assets/img/team/jackie_v.png
       - name: "Gaby Ecanow"
-        role: "she/her/hers"
+        role: "Director of Professional Development, she/her/hers"
         image: assets/img/team/gaby_e.jpg
       - name: "Michelle Li"
-        role: "she/her/hers"
+        role: "Mentorship Program Lead, she/her/hers"
         image: assets/img/team/michelle_l.jpeg
+      - name: "Neha Hulkund"
+        role: "Treasurer, she/her/hers"
+        image: assets/img/team/neha_h.jpg
+      - name: "Zad Chin"
+        role: "Education Committee Lead, she/her/hers"
+        image: assets/img/team/zad_c.jpg
+      - name: "Nina Rhone"
+        role: "Co-Director of Marketing and Design"
+        image: assets/img/team/nina_r.jpeg
+      - name: "Lindsey McAllister"
+        role: "Co-Director of Marketing and Design"
+        image: assets/img/team/koala_icon.png
+      - name: "Shelley Choi"
+        role: "Co-Director of Young Scientists Interview Series, she/her/hers"
+        image: assets/img/team/shelley_c.jpg
+      - name: "Sharon Jiang"
+        role: "Co-Director of Young Scientists Interview Series, she/her/hers"
+        image: assets/img/team/joala_icon.png
+      - name: "Alisa Hathaway"
+        role: "Co-Director of Expert Interview Series, she/her/hers"
+        image: assets/img/team/alisa_h.jpg
       - name: "Fatima Gunter-Rahman"
         role: "she/her/hers"
         image: assets/img/team/fatima_g.jpg
@@ -122,9 +143,6 @@ team:
       - name: "Jennifer Hu"
         role: "she/her/hers"
         image: assets/img/team/jennifer_h.jpg
-      - name: "Neha Hulkund"
-        role: "she/her/hers"
-        image: assets/img/team/neha_h.jpg
       - name: "Carina Kauf"
         role: "she/her/hers"
         image: assets/img/team/carina_k.jpg
@@ -175,9 +193,6 @@ team:
       - name: "Maegan Jong"
         role: "she/her/hers"
         image: assets/img/team/maegan_j.jpeg
-      - name: "Alisa Hathaway"
-        role: "she/her/hers"
-        image: assets/img/team/alisa_h.jpg
       - name: "Anusha Puri"
         role: "she/her/hers"
         image: assets/img/team/anusha_p.jpg
@@ -196,13 +211,14 @@ team:
       - name: "Mari Kikuta"
         role: "she/her/hers"
         image: assets/img/team/koala_icon.png
-      - name: "Zad Chin"
-        role: "she/her/hers"
-        image: assets/img/team/zad_c.jpg
       - name: "Elizabeth Bondi"
         role: "she/her/hers"
         image: assets/img/team/elizabeth_b.jpg
-      - name: "Lindsey McAllister"
+      - name: "Cindy Liu"
+        role: "she/her/hers"
+        image: assets/img/team/cindy_l.jpeg
+      - name: "Elizabeth Lee"
+        role: "she/her/hers"
         image: assets/img/team/koala_icon.png
       - name: "Kate Pearce"
         image: assets/img/team/kate_p.jpg
