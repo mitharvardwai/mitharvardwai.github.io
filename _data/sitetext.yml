@@ -220,6 +220,8 @@ team:
       - name: "Elizabeth Lee"
         role: "she/her/hers"
         image: assets/img/team/koala_icon.png
+      - name: "Agi Kajanaku"
+        image: assets/img/team/agi_k.jpg
       - name: "Kate Pearce"
         image: assets/img/team/kate_p.jpg
       - name: "Summer Vo"
