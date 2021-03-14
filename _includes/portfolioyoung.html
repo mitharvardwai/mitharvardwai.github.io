@@ -9,16 +9,16 @@
     </div>
     <div class="row">
   {% for project in site.portfolioyoung %}
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
-          <div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
+      <div class="col-md-4 col-sm-6 portfolioyoung-item">
+        <a class="portfolioyoung-link" data-toggle="modal" href="#p{{ forloop.index }}">
+          <div class="portfolioyoung-hover">
+            <div class="portfolioyoung-hover-content">
+              <i class="{{ site.data.style.portfolioyoung-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
-        <div class="portfolio-caption">
+        <div class="portfolioyoung-caption">
           <h4>{{ project.caption.title }}</h4>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
