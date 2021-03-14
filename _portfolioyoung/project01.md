@@ -1,6 +1,6 @@
 ---
 title: Coming soon!
-subtitle: 
+subtitle: coming soon...
 
 image: assets/img/team/koala_icon.png
 alt: mystery!
