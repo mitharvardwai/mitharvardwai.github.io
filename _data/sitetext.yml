@@ -26,8 +26,8 @@ services:
         icon: fas fa-laptop       
 
 portfolio:
-    title: "interviews"
-    text: "interviews with outstanding women in the field."
+    title: "expert interview series"
+    text: "interviews with outstanding women experts in the field."
     section: portfolio
     
 
