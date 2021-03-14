@@ -33,7 +33,7 @@ portfolio:
 portfolio_young:
     title: "young scientists interview series"
     text: "interviews with outstanding young women scientists and engineers."
-    section: portfolio_young
+    section: portfolioyoung
     
 
 timeline:
