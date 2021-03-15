@@ -10,3 +10,5 @@ caption:
   thumbnail: assets/img/team/koala_icon.png
 ---
 
+
+Get excited for the first installment of our new series!
