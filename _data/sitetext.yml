@@ -28,7 +28,12 @@ services:
 portfolio:
     title: "expert interview series"
     text: "interviews with outstanding women experts in the field."
-    section: portfolio    
+    section: portfolio
+
+portfolioyoung:
+    title: "young scientists interview series"
+    text: "interviews with outstanding young women scientists and engineers -- COMING SOON!"
+    section: portfolioyoung
 
 timeline:
     title: "resources" 
@@ -72,11 +77,6 @@ timeline:
         image: "/assets/img/resources/book.jpg"     
     end: "Tell us your favorite resources!"
 
-portfolioyoung:
-    title: "young scientists interview series"
-    text: "interviews with outstanding young women scientists and engineers -- COMING SOON!"
-    section: portfolioyoung
-    
 team:
     title: "members"
     text: "meet our leadership and other amazing members!"
