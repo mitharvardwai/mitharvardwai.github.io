@@ -6,7 +6,7 @@ alt: TBD
 
 caption:
   title: Coming soon!
-  thumbnail: assets/img/team/koala_icon.png
+  thumbnail: assets/img/portfolioyoung/moving_logo.png
 ---
 
 Coming soon!

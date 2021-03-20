@@ -1,7 +1,7 @@
 ---
 title: Coming soon!
 
-image: assets/img/team/portfolioyoung/moving_logo.png
+image: assets/img/team/koala_icon.png
 alt: TBD
 
 caption:
