@@ -9,4 +9,3 @@ caption:
   thumbnail: assets/img/portfolioyoung/moving_logo.png
 ---
 
-Coming soon!
