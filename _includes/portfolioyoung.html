@@ -10,7 +10,7 @@
     <div class="row">
   {% for project in site.portfolioyoung %}
       <div class="col-md-4 col-sm-6 portfolioyoung-item">
-        <a class="portfolioyoung-link" data-toggle="modal" href="#p{{ forloop.index }}">
+        <a class="portfolioyoung-link" data-toggle="portfolioyoung-modal" href="#p{{ forloop.index }}">
           <div class="portfolioyoung-hover">
             <div class="portfolioyoung-hover-content">
               <i class="{{ site.data.style.portfolioyoung-icon | default: "fas fa-plus fa-3x" }}"></i>
