@@ -3,7 +3,7 @@ title: TBD
 subtitle: TBD
 
 image: assets/img/team/koala_icon.png
-alt: Anima Anandkumar
+alt: TBD
 
 caption:
   title: TBD
