@@ -2,12 +2,12 @@
 title: Zana Bucinca
 subtitle: MITxHarvard Women in Artificial Intelligence Young Scientists Interview Series with Zana Bucinca, interviewed by Shelley Choi, MIT '23.
 
-image: assets/img/portfolio/zana_bucinca_video.jpeg
+image: assets/img/portfolioyoung/zana_bucinca_video.jpeg
 alt: Zana Bucinca
 
 caption:
   title: Zana Bucinca
-  thumbnail: assets/img/portfolio/zana_bucinca_video.jpeg
+  thumbnail: assets/img/portfolioyoung/zana_bucinca_video.jpeg
 ---
 
 View on [Youtube](https://www.youtube.com/watch?v=qwCACmkCdj4).
