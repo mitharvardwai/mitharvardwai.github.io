@@ -30,6 +30,11 @@ portfolio:
     text: "interviews with outstanding women experts in the field."
     section: portfolio
 
+portfolioyoung:
+    title: "young scientists interview series"
+    text: "interviews with outstanding young women scientists and engineers"
+    section: portfolioyoung
+
 timeline:
     title: "resources" 
     text: "a collection of our favorite resources."
