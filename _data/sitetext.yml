@@ -48,6 +48,8 @@ timeline:
 
         Intro AI at MIT: [MIT Open Course Ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) and [Youtube](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi).<br>
 
+        MIT 6.036 Fall 2020: [Prof. Tamara Broderick's webpage](http://people.csail.mit.edu/tbroderick//ml.html).<br>
+
         Deep Learning Monthlong Course: [Youtube](https://www.youtube.com/watch?v=njKP3FqW3Sk)."
         
         image: "/assets/img/resources/online_course.jpg"
@@ -60,8 +62,8 @@ timeline:
         
         Learn matrix methods with [MIT's Gil Strang](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k).<br>
  
-        Learn basic probability with [Mr. Nystrom](https://www.youtube.com/watch?v=dqgZxu9qc2w&list=PLFGZup_HuWTtIs0Xbzt7vDoFrnZxN4VXT).<br>
 
+        Learn basic probability with [Mr. Nystrom](https://www.youtube.com/watch?v=dqgZxu9qc2w&list=PLFGZup_HuWTtIs0Xbzt7vDoFrnZxN4VXT).<br>
         Learn advanced probability with [Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)."
         
         image: "/assets/img/resources/math.jpg"
@@ -69,6 +71,8 @@ timeline:
       - title: "Other Resources"
         desc: "
         Deep Learning by Goodfellow et al: free book available at [deeplearningbook.org](https://www.deeplearningbook.org).<br>
+
+        Videos About AI in our everyday lives by [MIT & Harvard graduate student Jordan Harrod](https://www.youtube.com/channel/UC1H1NWNTG2Xi3pt85ykVSHA).<br>
         
         Practice data science problems on [Kaggle](https://www.kaggle.com).<br>
   
