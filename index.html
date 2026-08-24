@@ -8,7 +8,7 @@
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500..700;1,9..144,500..700&family=Mulish:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Mulish:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet" />
     <link href="css/styles.css" rel="stylesheet" />
     <script>document.documentElement.classList.add("js");</script>
     <script src="https://unpkg.com/@phosphor-icons/web@2.1.1" defer></script>
@@ -33,29 +33,56 @@
     </header>
 
     <section class="hero">
+        <div class="rings rings-a" aria-hidden="true"></div>
+        <div class="rings rings-b" aria-hidden="true"></div>
         <div class="hero-inner">
             <p class="hero-eyebrow">MIT x Harvard</p>
-            <h1>Women in AI</h1>
+            <h1>Women <em>in</em> AI</h1>
             <p>A supportive community for women and non-binary students exploring artificial intelligence and machine learning at MIT and Harvard.</p>
             <div class="hero-actions">
-                <a class="btn btn-cream" href="https://forms.gle/QCNsgucp4HgneJC58">Join us</a>
-                <a class="btn btn-outline-cream" href="about.html">About us</a>
+                <a class="btn btn-cream btn-lg" href="https://forms.gle/QCNsgucp4HgneJC58">Join us</a>
+                <a class="btn btn-outline-cream btn-lg" href="about.html">About us</a>
             </div>
         </div>
     </section>
 
-    <div class="affiliation">
-        <div class="wrap affiliation-inner">
-            <p>A student community at</p>
-            <img src="assets/img/mit.png" alt="MIT" />
-            <img src="assets/img/hseas.png" alt="Harvard School of Engineering and Applied Sciences" />
+    <div class="marquee" aria-label="Sponsors past and present">
+        <div class="marquee-track">
+            <div class="marquee-set">
+                <div class="marquee-logo"><img src="assets/img/sponsors/tower_research_capital_white_background.png" alt="Tower Research Capital" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/NVLogo_2D_SILVER.jpg" alt="NVIDIA" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/Jane-Street.jpeg" alt="Jane Street" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/IMC_GOLD.png" alt="IMC Trading" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/deshaw_SILVER.jpg" alt="D. E. Shaw" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/SIG_SILVER.jpg" alt="SIG" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/citadel.png" alt="Citadel" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/covariant_GOLD.png" alt="Covariant" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/DRW_logo_SILVER.png" alt="DRW" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/Y_Combinator_logo_.png" alt="Y Combinator" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/bloomberg_updated_BRONZE-01.png" alt="Bloomberg" /></div>
+            </div>
+            <div class="marquee-set" aria-hidden="true">
+                <div class="marquee-logo"><img src="assets/img/sponsors/tower_research_capital_white_background.png" alt="" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/NVLogo_2D_SILVER.jpg" alt="" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/Jane-Street.jpeg" alt="" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/IMC_GOLD.png" alt="" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/deshaw_SILVER.jpg" alt="" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/SIG_SILVER.jpg" alt="" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/citadel.png" alt="" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/covariant_GOLD.png" alt="" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/DRW_logo_SILVER.png" alt="" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/Y_Combinator_logo_.png" alt="" /></div>
+                <div class="marquee-logo"><img src="assets/img/sponsors/bloomberg_updated_BRONZE-01.png" alt="" /></div>
+            </div>
         </div>
     </div>
 
     <section class="section" id="about">
         <div class="wrap reveal">
-            <h2>Who we are</h2>
-            <p class="section-intro">We are a club of MIT and Harvard students who are interested in artificial intelligence and machine learning. Beginners and interested individuals with any level of knowledge are welcome! We use an inclusive definition of the word women, and the purpose of the Women in Artificial Intelligence group is to provide a supportive community for cisgender women, transgender women, genderqueer women and individuals, and non-binary individuals pursuing studies or research in AI and machine learning at MIT and Harvard.</p>
+            <p class="lede">Open to every level of experience, from first hello-world to published research.</p>
+            <div class="about-body">
+                <p>We are a club of MIT and Harvard students who are interested in artificial intelligence and machine learning. Beginners and interested individuals with any level of knowledge are welcome! We use an inclusive definition of the word women, and the purpose of the Women in Artificial Intelligence group is to provide a supportive community for cisgender women, transgender women, genderqueer women and individuals, and non-binary individuals pursuing studies or research in AI and machine learning at MIT and Harvard.</p>
+            </div>
             <div class="section-actions">
                 <a class="btn btn-outline-purple" href="about.html#gp">Guiding principles</a>
                 <a class="btn btn-outline-purple" href="about.html#team">Meet the team</a>
@@ -69,6 +96,7 @@
             <p class="section-intro">Conversations with the people shaping AI, from established experts to rising scientists.</p>
             <div class="activity-grid">
                 <div class="activity-card activity-featured">
+                    <div class="rings rings-a" aria-hidden="true"></div>
                     <div>
                         <h3>Expert Interview Series</h3>
                         <p>Interviews with outstanding women experts from all areas in the field.</p>
@@ -93,18 +121,12 @@
         </div>
     </section>
 
-    <section class="section" id="sponsor">
-        <div class="wrap reveal section-center">
-            <h2>Our sponsors</h2>
-            <p class="section-intro">We thank our sponsors for their support and their commitment to promoting women in artificial intelligence.</p>
-            <div class="logo-row">
-                <div class="logo-card"><img src="assets/img/sponsors/roblox_gold.jpg" alt="Roblox" /></div>
-                <div class="logo-card"><img src="assets/img/sponsors/tower_research_capital_white_background.png" alt="Tower Research Capital" /></div>
-            </div>
-            <div class="section-actions">
-                <a class="btn btn-purple" href="https://forms.gle/5ucbakyzcQsqQCwg7">Become a sponsor</a>
-                <a class="btn btn-outline-purple" href="sponsors.html">All sponsors</a>
-            </div>
+    <section class="join-band">
+        <div class="rings rings-a" aria-hidden="true"></div>
+        <div class="wrap reveal">
+            <h2>Join the <em>community</em></h2>
+            <p>Events, interviews, mentorship, and people who want you in the field.</p>
+            <a class="btn btn-cream btn-lg" href="https://forms.gle/QCNsgucp4HgneJC58">Join us</a>
         </div>
     </section>
 
