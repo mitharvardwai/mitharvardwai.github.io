@@ -9,6 +9,7 @@
   --purple-dark: #482da3;
   --purple-deep: #38227e;
   --lavender: #dcd2f5;
+  --lavender-deep: #c6b1ef;
   --lavender-soft: #ede7fa;
   --cream: #f5efe2;
   --cream-card: #fbf8f0;
@@ -793,19 +794,32 @@ a:hover {
 
 /* ---------- Team grid (about) ---------- */
 
+.team-group {
+  margin-top: 3rem;
+}
+
+.team-group:first-of-type {
+  margin-top: 3.5rem;
+}
+
+.team-group-title {
+  font-size: 1.4rem;
+  margin-bottom: 1.25rem;
+}
+
+/* auto-fill (not auto-fit) so short sections keep the same card width
+   as full rows instead of stretching to fill the container */
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(235px, 1fr));
-  align-items: start;
-  gap: 1.5rem;
-  margin-top: 3.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1.25rem;
 }
 
 .team-card {
   background: var(--cream-card);
   border: 1px solid var(--line);
   border-radius: var(--radius-card);
-  padding: 1.25rem;
+  padding: 1rem;
   text-align: center;
   transition: transform 0.3s var(--ease-out), box-shadow 0.3s var(--ease-out);
 }
@@ -817,53 +831,64 @@ a:hover {
 
 .team-photo {
   width: 100%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
+  object-position: center 30%;
   border-radius: var(--radius-img);
   background: var(--lavender-soft);
-  margin-bottom: 1.1rem;
+  margin-bottom: 1rem;
 }
 
-.team-card h3 {
-  font-size: 1.55rem;
-  margin-bottom: 0.6rem;
+.team-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  color: var(--purple);
+  background: var(--lavender);
+}
+
+/* min-height reserves two lines so one- and two-line names give equal cards */
+.team-card h4 {
+  font-size: 1.25rem;
+  line-height: 1.15;
+  min-height: 2.3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.5rem;
   color: var(--ink);
 }
 
 .role-pill {
   display: inline-block;
-  background: var(--lavender);
+  background: var(--lavender-deep);
   color: var(--purple-deep);
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   font-weight: 700;
+  white-space: nowrap;
   border-radius: 999px;
-  padding: 0.3rem 0.9rem;
-  margin-bottom: 0.6rem;
+  padding: 0.28rem 0.8rem;
 }
 
-.team-school {
-  font-size: 0.9rem;
+/* class year and major, revealed on hover; hidden entirely while blank */
+.team-meta {
+  font-size: 0.85rem;
   color: var(--muted);
-  font-weight: 700;
-  margin: 0;
-}
-
-.team-card details {
-  margin-top: 0.9rem;
-  text-align: left;
-}
-
-.team-card summary {
-  cursor: pointer;
-  font-weight: 700;
-  font-size: 0.9rem;
-  color: var(--purple);
-}
-
-.team-card details p {
-  font-size: 0.92rem;
+  font-weight: 600;
   margin: 0.6rem 0 0;
-  color: var(--muted);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.team-card:hover .team-meta,
+.team-card:focus-within .team-meta {
+  opacity: 1;
+}
+
+.team-meta:empty {
+  display: none;
 }
 
 /* ---------- Resource cards ---------- */
